@@ -1,1 +1,0 @@
-double power(double a);{return a*a};
