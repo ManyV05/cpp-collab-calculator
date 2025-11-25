@@ -1,1 +1,1 @@
-
+double power(double a);
